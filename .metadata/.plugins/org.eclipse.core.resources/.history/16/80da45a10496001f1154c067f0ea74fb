@@ -1,0 +1,25 @@
+package QualityAutomationLearn;
+
+import org.junit.Before;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class PageLoadingDemo {
+	
+@Before 
+	
+	public void SetUp() {
+		System.setProperty("wedriver.chrome.driver", "./src/test/resources/chromedriver.chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.get("https://the-internet.herokuapp.com/javascript_alerts");
+	}
+
+@Test
+
+
+
+
+@After
+
+
+}
