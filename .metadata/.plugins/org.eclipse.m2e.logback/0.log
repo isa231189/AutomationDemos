@@ -2681,3 +2681,131 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2024-10-29 11:16:04,945 [Worker-57: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-10-29 11:16:04,948 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
 2024-10-30 20:26:29,636 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-04 08:15:07,081 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-04 08:23:14,855 [Worker-8: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 08:23:15,079 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:23:15,083 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-11-04 08:23:15,100 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:23:15,101 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 08:23:16,368 [Worker-8: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 08:23:16,395 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:23:16,398 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 08:23:16,405 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:23:16,406 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-11-04 08:32:56,917 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating KeyboardDemo from maven configuration
+2024-11-04 08:32:57,696 [Worker-34: Launching KeyboardDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 08:32:57,709 [Worker-34: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:32:57,712 [Worker-34: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 08:32:57,714 [Worker-34: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:32:57,715 [Worker-34: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 08:35:12,804 [Worker-38: Launching KeyboardDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 08:35:12,860 [Worker-38: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:35:12,868 [Worker-38: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 08:35:12,878 [Worker-38: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:35:12,881 [Worker-38: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 08:50:54,938 [Worker-34: Launching KeyboardDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 08:50:54,972 [Worker-34: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:50:54,978 [Worker-34: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 08:50:54,982 [Worker-34: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:50:54,983 [Worker-34: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 08:54:00,816 [Worker-34: Launching KeyboardDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 08:54:00,851 [Worker-34: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:54:00,858 [Worker-34: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 08:54:00,866 [Worker-34: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:54:00,868 [Worker-34: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 08:56:39,922 [Worker-34: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 08:56:39,997 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:56:40,015 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 08:56:40,027 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 08:56:40,029 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 09:01:27,797 [Worker-34: Launching KeyboardDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 09:01:27,860 [Worker-34: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 09:01:27,872 [Worker-34: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 09:01:27,878 [Worker-34: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 09:01:27,879 [Worker-34: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 09:35:12,152 [Worker-52: Launching KeyboardDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 09:35:12,725 [Worker-52: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 09:35:12,769 [Worker-52: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 09:35:12,818 [Worker-52: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 09:35:12,824 [Worker-52: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 09:38:54,401 [Worker-50: Launching KeyboardDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 09:38:54,441 [Worker-50: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 09:38:54,447 [Worker-50: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 09:38:54,460 [Worker-50: Launching KeyboardDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 09:38:54,464 [Worker-50: Launching KeyboardDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 09:39:33,777 [Worker-60: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 09:39:33,800 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 09:39:33,803 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 09:39:33,809 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 09:39:33,812 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 09:47:24,377 [Worker-63: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 09:47:24,630 [Worker-63: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 09:47:24,667 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 09:47:24,698 [Worker-63: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 09:47:24,702 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:00:04,639 [Worker-70: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:00:04,689 [Worker-70: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:00:04,695 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:00:04,701 [Worker-70: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:00:04,702 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:02:31,788 [Worker-74: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:02:31,794 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:02:31,795 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:02:31,796 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:02:31,796 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:03:26,515 [Worker-69: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:03:26,531 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:03:26,533 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:03:26,536 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:03:26,537 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:03:32,155 [main] INFO  o.e.m.jdt.internal.UnitTestSupport - Updating MouseActionsDemo from maven configuration
+2024-11-04 10:06:34,429 [Worker-69: Launching MouseActionsDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:06:34,477 [Worker-69: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:06:34,483 [Worker-69: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:06:34,488 [Worker-69: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:06:34,489 [Worker-69: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:12:48,666 [Worker-76: Launching MouseActionsDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:12:48,720 [Worker-76: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:12:48,730 [Worker-76: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:12:48,744 [Worker-76: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:12:48,746 [Worker-76: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:15:02,055 [Worker-75: Launching MouseActionsDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:15:02,068 [Worker-75: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:15:02,069 [Worker-75: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:15:02,073 [Worker-75: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:15:02,074 [Worker-75: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:16:32,849 [Worker-78: Launching MouseActionsDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:16:32,903 [Worker-78: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:16:32,909 [Worker-78: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:16:32,916 [Worker-78: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:16:32,918 [Worker-78: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:36:17,001 [Worker-78: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:36:17,070 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:36:17,082 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:36:17,091 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:36:17,093 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:38:14,457 [Worker-85: Launching MouseActionsDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:38:14,468 [Worker-85: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:38:14,470 [Worker-85: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:38:14,482 [Worker-85: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:38:14,485 [Worker-85: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:39:03,862 [Worker-87: Launching MouseActionsDemo] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:39:03,942 [Worker-87: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:39:03,951 [Worker-87: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:39:03,957 [Worker-87: Launching MouseActionsDemo] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:39:03,958 [Worker-87: Launching MouseActionsDemo] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:40:06,155 [Worker-89: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:40:06,165 [Worker-89: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:40:06,166 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:40:06,168 [Worker-89: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:40:06,169 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-04 10:49:29,147 [Worker-92: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-04 10:49:29,211 [Worker-92: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:49:29,221 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-04 10:49:29,228 [Worker-92: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-04 10:49:29,229 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes
+2024-11-05 11:03:03,326 [Worker-102: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2024-11-05 11:03:03,486 [Worker-102: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-05 11:03:03,501 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-11-05 11:03:03,512 [Worker-102: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-05 11:03:03,514 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/test/resources to target/test-classes

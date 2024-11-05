@@ -2,16 +2,16 @@
 <launchHistory>
     <launchGroup id="org.eclipse.debug.ui.launchGroup.debug">
         <mruHistory>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Alerts&quot;/&gt;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MercuryToursAutomatedTest&quot;/&gt;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MouseActionsDemo&quot;/&gt;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;KeyboardDemo&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;WebElementDemo&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PageLoadingDemo&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;ProxyDemo&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Alerts&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MercuryToursAutomatedTest&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;GoogleSearchTest (2)&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Example&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;probando_codegen&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;NavegarGoogle&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;GoogleSearchTest (1)&quot;/&gt;&#10;"/>
         </mruHistory>
         <favorites/>
     </launchGroup>
@@ -21,16 +21,16 @@
     </launchGroup>
     <launchGroup id="org.eclipse.eclemma.ui.launchGroup.coverage">
         <mruHistory>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Alerts&quot;/&gt;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MercuryToursAutomatedTest&quot;/&gt;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MouseActionsDemo&quot;/&gt;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;KeyboardDemo&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;WebElementDemo&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PageLoadingDemo&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;ProxyDemo&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Alerts&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MercuryToursAutomatedTest&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;GoogleSearchTest (2)&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Example&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;probando_codegen&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;NavegarGoogle&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;GoogleSearchTest (1)&quot;/&gt;&#10;"/>
         </mruHistory>
         <favorites/>
     </launchGroup>
@@ -40,16 +40,16 @@
     </launchGroup>
     <launchGroup id="org.eclipse.debug.ui.launchGroup.run">
         <mruHistory>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Alerts&quot;/&gt;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MercuryToursAutomatedTest&quot;/&gt;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MouseActionsDemo&quot;/&gt;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;KeyboardDemo&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;WebElementDemo&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;PageLoadingDemo&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;ProxyDemo&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Alerts&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MercuryToursAutomatedTest&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;GoogleSearchTest (2)&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;Example&quot;/&gt;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;probando_codegen&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;NavegarGoogle&quot;/&gt;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;GoogleSearchTest (1)&quot;/&gt;&#10;"/>
         </mruHistory>
         <favorites/>
     </launchGroup>

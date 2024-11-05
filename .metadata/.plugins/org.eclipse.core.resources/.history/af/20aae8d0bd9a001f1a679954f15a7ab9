@@ -1,0 +1,55 @@
+package QualityAutomationLearn;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+
+public class MouseActionsDemo {
+	private WebDriver driver;
+	
+	By letterA = By.name("A") ;
+	By letterD = By.name("D") ;
+	
+	@Before 
+	
+	public void SetUp() {
+	
+		System.setProperty("wedriver.chrome.driver", "./src/test/resources/chromedriver.chromedriver.exe");
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.get("https://selenium08.blogspot.com/2020/01/click-and-hold.html");
+		}
+		
+		@Test
+		public void ClickandHold() {
+			Actions action = new Actions(driver);
+			
+			action.moveToElement(letterA);
+			action.build().perform();
+			
+			Thread.sleep(3000);
+			System.out.print("Done");
+		}
+		 
+		
+		
+
+		@After
+
+		public void TearDown() {
+			
+			driver.quit();
+			
+
+		
+		
+}
+	
+	
+	
+
+}

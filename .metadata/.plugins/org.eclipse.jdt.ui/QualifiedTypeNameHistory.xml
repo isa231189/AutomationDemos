@@ -16,6 +16,10 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.By.ByXPath"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeOptions"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.PageLoadStrategy"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Action"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
     <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
 </qualifiedTypeNameHistroy>
